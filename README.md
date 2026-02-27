@@ -1,73 +1,84 @@
 <p align="center">
   <img src="https://i.giphy.com/coxQHKASG60HrHtvkt.webp" alt="Приветственное изображение" width="100%" />
 </p>
+
 <h1 align="center">Всем привет, я Павел 👋</h1>
-<h3 align="center"> QA Manual / Automation</h3>
+<h3 align="center">QA Engineer (Manual → Automation) | Python</h3>
 
 ---
 
 ### 🚀 О себе
-- **Я пишу на**: `Python`  
-- **Мои профессиональные навыки**:  QA Automation Engineer (Web & Mobile), Python  
+- **Стек**: Python, Pytest, Postman, SQL, Git, Android/iOS Testing
+- **Формат**: Ищу команду для роста в автоматизации, готов к тестовым заданиям и онбордингу
+- **Подход**: Люблю разбираться в причинах багов, автоматизировать рутину и доводить задачи до конца
 
-- В IT с 2019: прошёл путь от контентщика до автоматизатора в продакшн-проектах: **Сайт-Креатив** → **Netcracker** → **AB Digital**
-- Пишу автотесты на **Python** + **Pytest** для web и mobile (Appium), завожу их в **CI/CD** (GitLab) и смотрю на мир через **Allure**, логирование и **SQL**.
-- Люблю **e2e-сценарии**, **API-тесты** и рефакторинг фреймворков, терпеть не могу ручной кликодром без автоматизации.
-- Комфортно себя чувствую рядом с **Git**, **Jira**, **YouTrack**, **Confluence**, **Postman**, **Charles**, **PostgreSQL/MSSQL**.
-- С 2019 года в IT сфере, обладаю мышлением тестироващика - для меня это **стиль жизни**.
-- С 16 лет мои хобби были: переустанавливать ОС, прошивать телефоны, разбираться с ADB и терминалом.
-  Ранее работал в **Сайт-Креатив** , **Netcracker** и **AB Digital** в качестве **QA Manual/Auto**, где:  
-  - Проводил **функциональное** и **регрессионное тестирование** веб-продуктов.  
-  - Разрабатывал **тест-кейсы** и **чек-листы** для проверки качества.   
-  - Составлял **баг-репорты** и вёл документацию в **Jira** и **Confluence**.  
-- 📄 Мое резюме на [HH](https://hh.ru/resume/0d7dfc59ff0f7e17cb0039ed1f417531724738)  
-- 📫 Связаться со мной: **schebunja.scherbakov@gmail.com**  
-- 📱 Мой Telegram: [@Toxyq](https://t.me/toxyq)
+> 💡 **Карьерный путь**: Пришёл в IT из смежных сфер. Прошёл путь от технической поддержки и контента до осознанного выбора в QA. Сейчас фокусируюсь на автоматизации тестирования мобильных и веб-приложений.
 
----
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" title="PyCharm">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="50" title="PyTest">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" title="Selenium">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" title="Swagger">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50" title="Confluence">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" title="PostgreSQL">
-</p>
+📄 [Моё резюме на HH](https://hh.ru/resume/...)  
+📫 Email: **schebunja.scherbakov@gmail.com** | TG: [@Toxyq](https://t.me/toxyq)
 
 ---
 
-### 📊 Мои достижения
-- 🔥 Перешёл от **ручного тестирования** к полноценной **автоматизации** web и mobile на **Python**.
-- 🧪 Настраивал запуск **автотестов** в **CI/CD** (GitLab/Jenkins) с отчётами в **Allure**.
-- 🏅 Покрыл автотестами ключевые сценарии в боевых проектах
-- 🔄 Работал с **API-тестами** через **Postman** и автотесты на **Python**.
-- 📱  Использовал **SQL** для валидации данных и подготовки тестовых данных.
+### 🧰 Навыки (по уровням)
+
+| Уровень | Навыки |
+|---------|--------|
+| **Core (уверенно)** | Manual Testing (Web/Mobile), Test Design, Bug Reporting (Jira/YouTrack), TestRail, Postman (collections, basic checks), SQL (SELECT/JOIN/WHERE), Git (clone/commit/push), Charles Proxy (сниффинг), DevTools |
+| **Familiar (знаком / применял в проектах)** | Python + Pytest (написание тестов), Appium (запуск, анализ отчётов), REST API тестирование, Allure (чтение отчётов), Docker (запуск готовых контейнеров) |
+| **Learning (изучаю / планирую углубить)** | CI/CD (GitLab CI, Jenkins — теория), Page Object Pattern, SQL (подготовка тестовых данных), Mobile Device Farms |
 
 ---
 
-### 🧰 Мой опыт и навыки:
-- Языки и фреймворки: **Python**, **Pytest**, **Selenium**, **Appium**.
-- Виды тестирования: **функциональное, регрессионное, API, e2e, мобильное тестирование (Android/iOS)**
-- Инструменты: **Postman, Swagger, Charles, Git, GitLab, Jira, Confluence, Allure.**
-- Базы данных: **PostgreSQL, MSSQL** - чтение/анализ данных, подготовка тестовых данных с помощью **SQL.**
-- Процессы: работа в **Scrum-командах**, участие в планировании, оценке задач, code review, настройке pipeline для автотестов.
+### 💼 Опыт (QA-фокус)
+
+#### **QA Engineer (Project-based / Contract)** | *2024 — н.в.*
+*Проектная работа + интенсивное обучение автоматизации*
+- Тестирование мобильных приложений (Android/iOS): функционал, UI/UX, работа с ADB, логи.
+- Написание автотестов на **Python + Pytest** для API и веб-интерфейсов (pet-проекты + учебные задачи).
+- Работа с **Charles Proxy**: анализ трафика, подмена ответов для edge-кейсов.
+- Составление тест-кейсов и чек-листов в **TestRail**, ведение баг-репортов в **Jira**.
+- *Технологии*: Python, Pytest, Postman, SQL, Git, Appium (basic), Android Studio.
+
+#### **Координатор проекта / Контроль качества** | *РСКБ-Страхование (проект), 2025*
+*Удалённое управление качеством на 36 объектах*
+- Приемка работ у подрядчиков: валидация соответствия ТЗ, выявление дефектов монтажа.
+- Документирование отклонений, коммуникация с исполнителями по исправлению багов.
+- Отчётность перед заказчиками в разных регионах, контроль сроков.
+- *QA-параллель*: Фактически выполнял роль QA на аутсорсе: проверка продукта → баг-репорт → контроль фикса → релиз.
+
+#### **Контент-менеджер / QA Assistant** | *Сайт-Креатив, 2019–2021*
+- Функциональное тестирование веб-сайтов перед публикацией контента (CMS WordPress/Joomla).
+- Кроссбраузерное тестирование (Chrome, Firefox, Safari) с использованием DevTools.
+- Взаимодействие с разработчиками по багам в Trello, базовая работа с Git.
+- UI/UX-проверки по макетам в Figma, тест-дизайн форм и навигации.
 
 ---
 
-### 👨‍💻 Цели на будущее:
-- Углублять стек **Python + Pytest + Appium/Selenium**, развивая фреймворки автотестов под **web и mobile**.
-- Больше работать с **device farms** и инфраструктурой вокруг мобильной автоматизации.
-- Углубить знания в области **Docker** и **Kubernetes**, а также их интеграции в процессы тестирования.
-- Развивать опыт работы с **CI/CD** и улучшать эффективность автоматизированных процессов.
+### 🧪 Пет-проекты и практика
+
+| Проект | Описание | Стек | Ссылка |
+|--------|----------|--------|--------|
+| **API Autotests** | Коллекция тестов для публичного API с валидацией ответов и схем | Python, Pytest, Requests, Allure | [GitHub](https://github.com/CodeInspector1/Api_test.git) |
+| **Mobile Test Suite** | Набор автотестов для Android-приложения (авторизация, навигация) | Python, Pytest, Appium | *По запросу / в процессе* |
+| **SQL Practice** | Скрипты для валидации данных, подготовка тестовых наборов | PostgreSQL, MySQL | *В репозитории* |
+| **Checklists Library** | Библиотека чек-листов для веб/мобайл тестирования | TestRail, Markdown | [GitHub](https://github.com/CodeInspector1/QA_Checklists.git) |
+
+> 🔐 *Примечание: Код коммерческих проектов ограничен NDA. Готов продемонстрировать навыки на тестовом задании или через live-coding сессию.*
+
 ---
-### 🚀 Примеры моих работ
-- **[Тест-кейсы для веб-приложения (Google Sheets)](https://docs.google.com/spreadsheets/d/1DVDJjnw1_fS1kWyPoZMvyX0hmNOl5vteCKX_bUQsQhI/edit?usp=sharing)**  
-- **[Чек-листы](https://github.com/CodeInspector1/QA_Checklists.git)**
-- **[Коллекция Postman](https://github.com/CodeInspector1/Api_test.git)**
-- **[Проект по веб-автоматизации](Временно ограниченны по условиям NDA)**
+
+### 📈 Что я делаю сейчас
+- Углубляю **Python + Pytest**: паттерны, фикстуры, параметризация.
+- Практикую **Appium**: работа с локаторами, ожиданием, реальными устройствами.
+- Изучаю **CI/CD**: как интегрировать автотесты в пайплайны (GitLab CI).
+- Прохожу собеседования, чтобы найти команду для роста до **Middle QA Automation**.
+
 ---
+
+### 🎯 Почему я?
+- ✅ **Технический бэкграунд**: с 16 лет разбираюсь с ПО, прошивками, ADB, терминалом.
+- ✅ **Реальный опыт контроля качества**: от приёмки стройки до тестирования веба.
+- ✅ **Осознанный выбор**: не «просто хочу в IT», а целенаправленно иду в автоматизацию.
+- ✅ **Готовность учиться**: не боюсь вопросов, гуглю, доделываю задачи до конца.
+
+> 💬 *«Ищу не просто работу, а команду, где смогу приносить пользу с первого месяца и расти в автоматизации.»*
